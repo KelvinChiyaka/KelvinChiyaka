@@ -11,7 +11,7 @@
 
 
 ### 🚀 Projects
-- **[ZPYF Website](https://zpyf.netlify.app/)** – NGO site for empowering youth
+- **[ZPYF Website](https://zpyf.netlify.app/)** – N.P.O site for empowering youth
 - **[Portfolio Site (Upgrading to Django)](https://kelvinchiyaka.netlify.app/)**
 - **Invoicing App** – Online tool for freelancers (in development)
 
