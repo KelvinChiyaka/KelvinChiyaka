@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelvin Chiyaka
 
-🎓 **Electrical & Biomedical Engineer** | 🧠 Tech Enthusiast | 💻 Full-Stack Developer in Training
+🎓 **Electrical & Biomedical Engineer** | 🧠 Tech Enthusiast | 💻 Full-Stack Developer 
 
 
 ### 🔧 Tech Stack
