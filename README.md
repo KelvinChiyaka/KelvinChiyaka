@@ -4,7 +4,7 @@
 
 
 ### 🔧 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript
+- 💻 Frontend: HTML, CSS, JavaScript, React
 - ⚙️ Backend: Python, Django
 - 🗃️ Databases: SQLite, PostgreSQL (learning)
 - 📦 Tools: Git, GitHub, VS Code, Figma
