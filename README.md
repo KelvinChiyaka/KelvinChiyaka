@@ -18,7 +18,7 @@
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://linkedin.com/in/kelvin-chiyaka-514b0a268)
 - 📧 Email: tonderaikelvin@outlook.com
-- 🌍 [Portfolio Website](https://kelvinchiyaka.netlify.app/)
+- 🌍 [Portfolio Website](https://kelvinchiyaka.info)
 
 
 > “Building for impact, learning by doing.”
