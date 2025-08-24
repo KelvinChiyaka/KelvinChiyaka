@@ -20,7 +20,7 @@
 ---
 
 ## Contact
-**LinkedIn:** [kelvin-chiyaka](https://linkedin.com/in/kelvin-chiyaka-514b0a268)  
+**LinkedIn:** [kelvinchiyaka](https://linkedin.com/in/kelvinchiyaka)  
 **Email:** tonderaikelvin@outlook.com  
 **Portfolio:** [kelvinchiyaka.info](https://kelvinchiyaka.info)  
 
