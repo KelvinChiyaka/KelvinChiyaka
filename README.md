@@ -1,25 +1,29 @@
-# 👋 Hi, I'm Kelvin Chiyaka
+# Kelvin Chiyaka
 
-🎓 **Electrical & Biomedical Engineer** | 🧠 Tech Enthusiast | 💻 Full-Stack Developer 
+**Electrical & Biomedical Engineer | Full-Stack Developer | Tech Enthusiast**
 
+---
 
-### 🔧 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript, React
-- ⚙️ Backend: Python, Django
-- 🗃️ Databases: SQLite, PostgreSQL (learning)
-- 📦 Tools: Git, GitHub, VS Code, Figma
+## Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Python, Django  
+**Databases:** SQLite, PostgreSQL (learning)  
+**Tools:** Git, GitHub, VS Code, Figma  
 
+---
 
-### 🚀 Projects
-- **[ZPYF Website](https://zpyf.netlify.app/)** – N.P.O site for empowering youth
-- **[Portfolio Site (Upgrading to Django)](https://kelvinchiyaka.netlify.app/)**
-- **Invoicing App** – Online tool for freelancers (in development)
+## Projects
+- **[ZPYF Website](https://zpyf.netlify.app/)** - Non-profit site for youth empowerment  
+- **[Portfolio Site](https://kelvinchiyaka.netlify.app/)** - Personal portfolio showcasing projects
+- **[Bus company website](https://metrobusweb.netlify.app/)** - Bus company website potential redesign.
 
-### 📫 Contact Me
-- 💼 [LinkedIn](https://linkedin.com/in/kelvin-chiyaka-514b0a268)
-- 📧 Email: tonderaikelvin@outlook.com
-- 🌍 [Portfolio Website](https://kelvinchiyaka.info)
+---
 
+## Contact
+**LinkedIn:** [kelvin-chiyaka](https://linkedin.com/in/kelvin-chiyaka-514b0a268)  
+**Email:** tonderaikelvin@outlook.com  
+**Portfolio:** [kelvinchiyaka.info](https://kelvinchiyaka.info)  
 
-> “Building for impact, learning by doing.”
+---
 
+**“Building for impact, learning by doing.”**
